@@ -1,4 +1,3 @@
-# BankSim-JavaOOP
 # BankSim-JavaOOP 🚀
 
 A simple **Bank Account Simulation** built in Java using **Object-Oriented Programming (OOP) principles**.
